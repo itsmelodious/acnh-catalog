@@ -2,7 +2,19 @@
   display: flex;
   flex-direction: column;
   text-align: center;
-  height: 100vh;
+  min-height: 100vh;
   background-color: #282c34;
   color: white;
+}
+
+.main {
+  display: flex;
+}
+
+.fish {
+  width: 50%;
+}
+
+.bugs {
+  width: 50%;
 }

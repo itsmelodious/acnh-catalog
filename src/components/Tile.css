@@ -1,0 +1,16 @@
+.tile {
+  display: flex;
+  margin: 4px;
+  border: 1px solid #666;
+  border-radius: 8px;
+}
+
+.tile-image {
+  width: 64px;
+  height: 64px;
+}
+
+.tile-text {
+  margin: auto;
+  font-size: 20px;
+}

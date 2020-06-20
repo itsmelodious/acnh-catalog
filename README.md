@@ -1,6 +1,11 @@
 # Animal Crossing: New Horizons Catalog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Reference for fish and bugs found in Animal Crossing: New Horizons.
+
+## Built With
+
+- [Create React App](https://github.com/facebook/create-react-app)
+- [ACNH API](http://acnhapi.com)
 
 ## Available Scripts
 
