@@ -51,6 +51,7 @@ export default function App() {
 
       {renderCrittersList(fishData)}
       {renderCrittersList(bugsData)}
+      <div></div>
     </div>
   );
 }
