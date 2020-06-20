@@ -1,0 +1,7 @@
+.button-container {
+    display: flex;
+    border: 3px red solid;
+    margin: 5px;
+    justify-content: space-around;
+    align-items: center;
+}
