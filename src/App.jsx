@@ -39,7 +39,7 @@ export default function App() {
       </div>
       <h1>ACNH Fish and Bugs Catalog</h1>
       <p>Coming soon!</p>
-      <ButtonContainer>
+      {/* <ButtonContainer>
         <Button name="Bugs"/>
         <Button name="Fish"/>
       </ButtonContainer>
@@ -47,7 +47,7 @@ export default function App() {
         <Button name="A"/>
         <p>potato</p>
         <Button name="B"/>
-      </ButtonContainer>
+      </ButtonContainer> */}
 
       {renderCrittersList(fishData)}
       {renderCrittersList(bugsData)}
